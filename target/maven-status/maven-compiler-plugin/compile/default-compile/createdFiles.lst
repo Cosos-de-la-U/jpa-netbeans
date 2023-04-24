@@ -1,0 +1,15 @@
+controladores\exceptions\IllegalOrphanException.class
+servlet_sis\servlet_alumno.class
+controladores\exceptions\PreexistingEntityException.class
+controladores\exceptions\RollbackFailureException.class
+com\mycompany\preexamjpa\exceptions\PreexistingEntityException.class
+com\mycompany\preexamjpa\exceptions\RollbackFailureException.class
+com\mycompany\preexamjpa\exceptions\IllegalOrphanException.class
+controladores\ControladoraPersistencia.class
+modelos\Alumno.class
+controladores\AlumnoJpaController.class
+com\mycompany\preexamjpa\exceptions\NonexistentEntityException.class
+com\mycompany\preexamjpa\resources\JakartaEE8Resource.class
+modelos\Carrera.class
+controladores\exceptions\NonexistentEntityException.class
+modelos\controladorAlumno.class
